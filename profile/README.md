@@ -1,4 +1,4 @@
-# [CampaignCompass](https://campaigncompass.org) 🧭
+# [CampaignCompass™](https://campaigncompass.org) 🧭
 
 CampaignCompass™ (operating under CampaignCompass™) is a comprehensive voter tracking application designed to streamline and optimize political campaigns for political parties and their individual constituency associations. With a range of powerful features, it empowers candidates, campaign managers, and volunteers to efficiently track routes, engage with voters, manage calls, monitor signs, and more. CamapignCompass™ serves as a reliable compass, guiding campaigns in the right direction; enabling them to make data-driven decisions for maximum impact. Developed with a user-friendly interface and robust functionality, CampaignCompass revolutionizes the way political parties and individual constituency associations organize and execute their campaign strategies, ensuring a seamless and successful electoral journey.
 
